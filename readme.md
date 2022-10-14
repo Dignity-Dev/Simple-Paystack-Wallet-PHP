@@ -20,5 +20,6 @@ Just enter your domain name: http://mydomain.com
 ## Author
 I'm Basheer Haadi, a software developer in Nigeria.
 
-Thanks, you can follow me on Twitter <https://linkedin.com/in/basheer-haadi-ajala>
+Thanks, you can follow me on Twitter <https://twitter.com/BasheerHaadi>
+Thanks, you can follow me on Linkedin <https://linkedin.com/in/basheer-haadi-ajala>
 
