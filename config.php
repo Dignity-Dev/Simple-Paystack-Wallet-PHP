@@ -19,5 +19,5 @@ $db = new PDO("mysql:host=" . DB_HOST . ";dbname=" . DB_NAME, DB_USER, DB_PASSWO
 define( 'BASE', 'http://localhost/wallet' ); // see the readme.md file
 
 /** Paystack Secret */
-define( 'PAYSTACK_SECRET', 'Your API key' );
+define( 'PAYSTACK_SECRET', 'Your secret API key' );
 
