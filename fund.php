@@ -52,7 +52,7 @@ if ( ! $tranx->status ) {
   // there was an error from the API
   print_r('API returned error: ' . $tranx['message']);
 }
-
+// user will be redirected
 // comment out this line if you want to redirect the user to the payment page
 // print_r($tranx);
 
